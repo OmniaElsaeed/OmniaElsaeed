@@ -1,6 +1,5 @@
 <h1 align="center">Hi, I'm Omnia Elsaeed 👋</h1>
-<h3 align="center">Flutter Developer 📱 | Data Analysis Learner 📊</h3>
-
+<h3 align="center">Flutter Developer 📱 | Data Analysis Learner 📊 | Problem Solver 🧠</h3>
 
 ---
 
@@ -9,6 +8,7 @@
 - 🎓 Student at Faculty of Computers & Information
 - 📱 Building mobile apps using **Flutter**
 - 📊 Learning **Data Analysis & Power BI**
+- 🧠 Practicing **Problem Solving on Codeforces**
 - 🚀 Interested in Freelancing & Real Projects
 - 💡 Passionate about solving real-life problems with technology
 
@@ -36,27 +36,7 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OmniaElsaeed&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OmniaElsaeed&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmniaElsaeed&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
-</p>
+<h3 align="left">Problem Solving:</h3>
+<img align="center" src="https://codeforces-readme-stats.vercel.app/api/badge?username=omniaaelsaeed" alt="Codeforces Stats" />
 
 ---
-
-## 🟩 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OmniaElsaeed&theme=tokyo-night" />
-</p>
-
----
-
-
-
-> Turning ideas into real mobile apps and insightful dashboards.
