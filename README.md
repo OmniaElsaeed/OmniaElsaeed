@@ -35,8 +35,8 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
+<h3>Problems Solved:</h3>
+<p align="center">
+  <img src="https://codeforces-readme-stats.vercel.app/api/badge?username=omniaaelsaeed&show_total=true&theme=light" alt="Codeforces Badge">
+</p>
 
-<h3 align="left">Problem Solving:</h3>
-<img align="center" src="https://codeforces-readme-stats.vercel.app/api/badge?username=omniaaelsaeed" alt="Codeforces Stats" />
-
----
