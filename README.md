@@ -1,7 +1,5 @@
 <h1 align="center">Hi, I'm Omnia Elsaeed 👋</h1>
-<h3 align="center">Flutter Developer 📱 | Data Analysis Learner 📊</h3>
-
----
+<h3 align="center">Flutter Developer 📱 | Data Analysis Learner 📊 | Problem Solver 🧠</h3>
 
 ## 👩‍💻 About Me
 
@@ -35,8 +33,10 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
-<h3>Problems Solved:</h3>
-<p align="center">
-  <img src="https://codeforces-readme-stats.vercel.app/api/badge?username=omniaaelsaeed&show_total=true&theme=light" alt="Codeforces Badge">
-</p>
+<h3 align="left">Stats:</h3>
+
+<div align="center">
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=omniaaelsaeed" alt="Codeforces Stats" width="450" />
+  <img src="https://github-readme-stats.vercel.app/api?username=OmniaElsaeed&show_icons=true&locale=en" alt="GitHub Stats" width="450" />
+</div>
 
