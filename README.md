@@ -36,7 +36,13 @@
 <h3 align="left">Stats:</h3>
 
 <div align="center">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=omniaaelsaeed" alt="Codeforces Stats" width="450" />
-  <img src="https://github-readme-stats.vercel.app/api?username=OmniaElsaeed&show_icons=true&locale=en" alt="GitHub Stats" width="450" />
+
+  <!-- Codeforces Full Stats -->
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=omniaaelsaeed&theme=default" width="450"/>
+
+  <!-- GitHub Stats -->
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=OmniaElsaeed&show_icons=true" />
+
+
 </div>
 
