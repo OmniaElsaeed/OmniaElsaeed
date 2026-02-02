@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Omnia Elsaeed 👋</h1>
-<h3 align="center">Flutter Developer 📱 | Data Analysis Learner 📊 | Problem Solver 🧠</h3>
+<h3 align="center">Flutter Developer 📱 | Data Analysis Learner 📊</h3>
 
 ## 👩‍💻 About Me
 
