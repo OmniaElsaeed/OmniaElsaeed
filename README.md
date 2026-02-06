@@ -6,8 +6,6 @@
 - 🎓 Student at Faculty of Computers & Information
 - 📱 Building mobile apps using **Flutter**
 - 📊 Learning **Data Analysis & Power BI**
-- 🧠 Practicing **Problem Solving on Codeforces**
-- 🚀 Interested in Freelancing & Real Projects
 - 💡 Passionate about solving real-life problems with technology
 
 ---
@@ -36,10 +34,6 @@
 <h3 align="left">Stats:</h3>
 
 <div align="center">
-
-  <!-- Codeforces Full Stats -->
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=omniaaelsaeed&theme=default" width="450"/>
-
   <!-- GitHub Stats -->
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=OmniaElsaeed&show_icons=true" />
 
